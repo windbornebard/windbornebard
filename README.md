@@ -81,7 +81,7 @@ ${\textsf{༄}}$  ${\textsf{\color{#829695}qpps}}$ ${\textsf{〜}}$ <a href="htt
 <div align="left"><details>
           <summary>${\textsf{\color{#7a8270}DNI}}$</summary>
  <sub>
-  ⟢․⁺┆ basic dni criteria + T.R.A.S.H. + radqueer<br>
+  ⟢․⁺┆ basic dni criteria / T.R.A.S.H. / radqueer<br>
   ⟢․⁺┆ endogenic 'systems' + endogenic believers/supporters<br>
   ⟢․⁺┆ if you make nsfw jokes on safe server<br>
   ⟢․⁺┆ homestuck ponies<br>
