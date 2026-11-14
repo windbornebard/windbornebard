@@ -1,8 +1,8 @@
 <br>
 <div id="header"align="center">
  
-   [![Hits](https://hits.sh/github.com/windbornebard.svg?label=wind%20spirits&color=7a8270&labelColor=383c43)](https://hits.sh/github.com/windbornebard/)
-   
+   [![Hits](https://hits.sh/github.com/windbornebard.svg?label=wind%20spirits&color=7a8270&labelColor=383c43)](https://hits.sh/github.com/windbornebard/) <br>
+   <sub> <a href="https://rentry.co/windswept">rentry</a> 〜 <a href="https://smphill.straw.page/">join my mc smp</a>
    </p>
    
 <table>
@@ -19,9 +19,9 @@
        ${\textsf{\color{#829695} osdd sys of 20+ parts}}$ ${\textsf{〜}}$ ${\textsf{\color{#829695} fictkin + therian}}$
        <br>
        <br>
-       ${\textsf{\color{#718A95} Please DO NOT COPY NOR INSPO from any of my ponies!}}$<br>
+       ${\textsf{\color{#718A95} please DO NOT COPY NOR INSPO from any of my ponies!}}$<br>
        ${\textsf{\color{#718A95} many of them are COMISSIONED or GIFTED from other}}$<br>
-       ${\textsf{\color{#718A95} people.}}$ ${\textsf{\color{#829695}They are all original ideas and most of them}}$<br>
+       ${\textsf{\color{#718A95} people.}}$ ${\textsf{\color{#829695}they are all original ideas and most of them}}$<br>
        ${\textsf{\color{#829695} are how my ALTERS SEE THEMSELVES.}}$
     </tr>
     <table>
@@ -88,6 +88,7 @@ ${\textsf{༄}}$  ${\textsf{\color{#829695}qpps}}$ ${\textsf{〜}}$ <a href="htt
   ⟢․⁺┆ hh/hb ponies<br>
   ⟢․⁺┆ vivziepop fans/supporters<br>
   ⟢․⁺┆ WSS and dteam supporters<br>
+  ⟢․⁺┆ venti kins (or don't ment around me)<br>
   ⟢․⁺┆ intra-system romantic relationships (or don't ment around me)<br>
   ⟢․⁺┆ systems who force-split introjects 
   </sub>
